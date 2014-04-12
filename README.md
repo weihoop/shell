@@ -1,1 +1,1 @@
-This program use for share shell scritps!
+This project use for share shell scritps!
