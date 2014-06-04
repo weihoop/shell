@@ -1,1 +1,2 @@
-This project use for share shell scritps!
+
+这个项目用来保存日常使用的shell脚本。
