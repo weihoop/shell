@@ -1,5 +1,5 @@
 #! /bin/sh
-# filename cpu_killer.sh
+# filename cpukiller.sh
 if [ $# != 1 ] ; then
     echo "USAGE: $0 <CPUs>"
     exit 1;
